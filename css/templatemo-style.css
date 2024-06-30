@@ -159,7 +159,7 @@ p {
 
 .tm-float-section-header {
     position: absolute;
-    background-color: #348fcc;
+    background-color: #cc8f34;
     /* width: 90%; */
     width: 1500;
     left: 18%;
@@ -167,7 +167,7 @@ p {
     
     margin-left: auto;
     margin-right: auto;
-    height: 870px;
+    height: 600px;
     
 }
 
